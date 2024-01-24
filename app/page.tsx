@@ -1,5 +1,3 @@
-"use client";
-
 import Link from "next/link";
 import styles from "./page.module.css";
 import ImageSlideShow from "./component/images/image-slideshow";
